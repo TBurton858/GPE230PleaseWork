@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\The230Class.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\The230Class.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\The230ClassEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\The230Class">
+      <UniqueIdentifier>{88137B4C-3C2C-3E82-8563-9A0193595E89}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\The230Class\The230Class.Build.cs">
+      <Filter>Source\The230Class</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\The230Class\The230Class.cpp">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\The230Class.h">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_Character.cpp">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_Character.h">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_Door.cpp">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_Door.h">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_GameMode.cpp">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_GameMode.h">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_Key.cpp">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\The230Class\T_Key.h">
+      <Filter>Source\The230Class</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

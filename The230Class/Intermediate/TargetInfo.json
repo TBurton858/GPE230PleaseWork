@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "The230Class",
+			"Path": "..\\Source\\The230Class.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "The230ClassEditor",
+			"Path": "..\\Source\\The230ClassEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-The230Class.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\The230Class.init.gen.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Character.gen.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_GameMode.gen.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Key.gen.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\The230Class.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Character.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_GameMode.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Key.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\PerModuleInline.gen.cpp.obj"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\Default.rc2.res"
+/OUT:"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\UnrealEditor-The230Class.lib"

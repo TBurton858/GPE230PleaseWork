@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\source\\the230class\\the230class.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\intermediate\\build\\win64\\x64\\the230classeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the230class\\definitions.the230class.h",
+            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\source\\the230class\\the230class.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
