@@ -1,12 +1,12 @@
-"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\UnrealEditor\Inc\The230Class\UHT\T_Door.gen.cpp"
-/FI"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\Definitions.The230Class.h"
-/Yu"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.lc.obj"
-/experimental:log "C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.sarif"
-/sourceDependencies"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.dep.lc.json"
-@"C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\The230Class.Shared.rsp"
+"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\UnrealEditor\Inc\The230Class\UHT\T_Door.gen.cpp"
+/FI"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\Definitions.The230Class.h"
+/Yu"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\The230ClassEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.lc.obj"
+/experimental:log "C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.sarif"
+/sourceDependencies"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\T_Door.gen.cpp.dep.lc.json"
+@"C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\The230Class.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

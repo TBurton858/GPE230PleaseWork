@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the230class\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the230class\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\intermediate\\build\\win64\\x64\\the230classeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\x64\\the230classeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\the230class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the230class\\definitions.the230class.h",
+            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the230class\\definitions.the230class.h",
             "t:\\fortnite\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],

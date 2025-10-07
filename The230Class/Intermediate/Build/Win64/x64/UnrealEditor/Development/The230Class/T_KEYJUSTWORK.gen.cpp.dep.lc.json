@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\unrealeditor\\inc\\the230class\\uht\\t_keyjustwork.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\x64\\the230classeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\the230class\\definitions.the230class.h",
+            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\source\\the230class\\t_keyjustwork.h",
+            "t:\\fortnite\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbox.h",
+            "t:\\fortnite\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbase.h",
+            "t:\\fortnite\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\triggerbase.generated.h",
+            "t:\\fortnite\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\triggerbox.generated.h",
+            "c:\\users\\miiga\\onedrive\\documents\\unreal projects\\gpe230pleasework\\the230class\\intermediate\\build\\win64\\unrealeditor\\inc\\the230class\\uht\\t_keyjustwork.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

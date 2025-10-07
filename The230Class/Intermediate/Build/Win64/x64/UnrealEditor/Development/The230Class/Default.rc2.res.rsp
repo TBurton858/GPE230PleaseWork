@@ -83,5 +83,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=The230Class
-/fo "C:\Users\miiga\OneDrive\Documents\Unreal Projects\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\Default.rc2.res"
+/fo "C:\Users\miiga\OneDrive\Documents\Unreal Projects\GPE230PleaseWork\The230Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\The230Class\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

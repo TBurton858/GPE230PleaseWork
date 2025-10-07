@@ -57,11 +57,23 @@
     <ClCompile Include="..\..\Source\The230Class\T_GameMode.h">
       <Filter>Source\The230Class</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\The230Class\T_Key.cpp">
+    <ClCompile Include="..\..\Source\The230Class\T_KEYJUSTWORK.cpp">
       <Filter>Source\The230Class</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\The230Class\T_Key.h">
+    <ClCompile Include="..\..\Source\The230Class\T_KEYJUSTWORK.h">
       <Filter>Source\The230Class</Filter>
+    </ClCompile>
+    <Filter Include="Source\The230Class\Private">
+      <UniqueIdentifier>{FA4D309E-979D-3785-93A8-2558F89C7536}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The230Class\Private\T_TriggerKey.cpp">
+      <Filter>Source\The230Class\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\The230Class\Public">
+      <UniqueIdentifier>{771D219C-BF29-3B7E-B4EF-3EC598F0FBBD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The230Class\Public\T_TriggerKey.h">
+      <Filter>Source\The230Class\Public</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
