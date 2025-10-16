@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/BP_T_Key.uasset",
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/BPT_TriggerKey.uasset",
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/NewMap_HLOD0_Instancing.uasset",
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
@@ -171,7 +170,17 @@
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/0/44/RWY0L4QZMMYSCNSUG50TC6.uasset",
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/D/4M/EXA55YSB7Q4O4EO5XP7A2H.uasset",
 				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/D/M0/G9H8R7KR293PPEY22SMYMP.uasset",
-				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/NewMap.umap"
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/NewMap.umap",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/AI/BP_T_Enemy.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/AI/BB_T_Enemy.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/AI/BT_T_Enemy.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/AI/BP_T_AIController.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/3/Q5/1VNQDB9UX3JAS44OHDA49Y.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/1/GN/3HUZIWDRTVJIMEJ1M1AYLZ.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/0/30/B1XXUD3D1KRQ6IW3X6O234.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/BP_T_Character.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/__ExternalActors__/NewMap/E/3L/CSY1NXVGDDDY4F835TIGYX.uasset",
+				"C:/Users/miiga/OneDrive/Documents/Unreal Projects/GPE230PleaseWork/The230Class/Content/BP_T_Key.uasset"
 			]
 		}
 	]
