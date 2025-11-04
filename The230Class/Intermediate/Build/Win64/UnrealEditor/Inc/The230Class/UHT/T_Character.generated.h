@@ -14,6 +14,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define THE230CLASS_T_Character_generated_h
 
+#define FID_The230Class_Source_The230Class_T_Character_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execDie); \
+	DECLARE_FUNCTION(execApplyHeal); \
+	DECLARE_FUNCTION(execApplyDamage);
+
+
 #define FID_The230Class_Source_The230Class_T_Character_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAT_Character(); \
@@ -39,6 +45,7 @@ public: \
 #define FID_The230Class_Source_The230Class_T_Character_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
+	FID_The230Class_Source_The230Class_T_Character_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_The230Class_Source_The230Class_T_Character_h_10_INCLASS_NO_PURE_DECLS \
 	FID_The230Class_Source_The230Class_T_Character_h_10_ENHANCED_CONSTRUCTORS \
 private: \

@@ -15,11 +15,11 @@ class AActor;
 #endif
 #define THE230CLASS_T_TriggerKey_generated_h
 
-#define FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_The230Class_Source_The230Class_T_TriggerKey_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnOverlapBegin);
 
 
-#define FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_INCLASS_NO_PURE_DECLS \
+#define FID_The230Class_Source_The230Class_T_TriggerKey_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAT_TriggerKey(); \
 	friend struct Z_Construct_UClass_AT_TriggerKey_Statics; \
@@ -28,7 +28,7 @@ public: \
 	DECLARE_SERIALIZER(AT_TriggerKey)
 
 
-#define FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_ENHANCED_CONSTRUCTORS \
+#define FID_The230Class_Source_The230Class_T_TriggerKey_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AT_TriggerKey(AT_TriggerKey&&); \
@@ -40,13 +40,13 @@ public: \
 	NO_API virtual ~AT_TriggerKey();
 
 
-#define FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_7_PROLOG
-#define FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_GENERATED_BODY \
+#define FID_The230Class_Source_The230Class_T_TriggerKey_h_7_PROLOG
+#define FID_The230Class_Source_The230Class_T_TriggerKey_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_INCLASS_NO_PURE_DECLS \
-	FID_The230Class_Source_The230Class_Public_T_TriggerKey_h_10_ENHANCED_CONSTRUCTORS \
+	FID_The230Class_Source_The230Class_T_TriggerKey_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_The230Class_Source_The230Class_T_TriggerKey_h_10_INCLASS_NO_PURE_DECLS \
+	FID_The230Class_Source_The230Class_T_TriggerKey_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -54,7 +54,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> THE230CLASS_API UClass* StaticClass<class AT_TriggerKey>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_The230Class_Source_The230Class_Public_T_TriggerKey_h
+#define CURRENT_FILE_ID FID_The230Class_Source_The230Class_T_TriggerKey_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
