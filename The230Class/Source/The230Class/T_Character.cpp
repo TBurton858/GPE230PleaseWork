@@ -57,7 +57,7 @@ void AT_Character::ApplyDamage(float DamageAmount)
 
     if (CurrentHealth <= 0.0f)
     {
-        Die();
+        //Die();
     }
 }
 
